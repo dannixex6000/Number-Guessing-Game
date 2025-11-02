@@ -5,5 +5,8 @@ When you run this game, you will be given a number, and you have to guess the nu
 3. The user will get a certain number of guesses, depending on the level of difficulty
 4. When a number is guessed, the number must be a whole number; going above 100 or below 1 is up to the user
 
+# How To Use
+Just download NumberGuessingGame.py and execute the code
+
 # Project URL
 https://roadmap.sh/projects/number-guessing-game
